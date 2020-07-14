@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.2015
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{07AA70F2-44BA-41A0-927D-271D284E8028}"
 EndProject
@@ -26,8 +26,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrackerEnabledDbContext.Cor
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		TrackerEnabledDbContext\TrackerEnabledDbContext.projitems*{3a87f2dc-a5a0-43d6-b17c-8c00dd962a91}*SharedItemsImports = 5
 		Tests\TrackerEnabledDbContext.Tests\TrackerEnabledDbContext.Tests.projitems*{6ef84a00-0441-41bd-9378-67144c064928}*SharedItemsImports = 13
+		TrackerEnabledDbContext\TrackerEnabledDbContext.projitems*{96a06dfb-2b24-4e13-a069-04b09358dcce}*SharedItemsImports = 5
 		TrackerEnabledDbContext\TrackerEnabledDbContext.projitems*{cf150c9e-bda4-4438-9493-6f10caec07a6}*SharedItemsImports = 13
+		Tests\TrackerEnabledDbContext.Tests\TrackerEnabledDbContext.Tests.projitems*{d6cded19-531f-4777-8261-2f3cc55823df}*SharedItemsImports = 5
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
